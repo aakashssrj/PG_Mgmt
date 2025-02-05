@@ -4,6 +4,11 @@ import React from 'react'
 const Layout = () => {
     return (
       <>
+        
+      <div className="box">Box</div>
+
+
+
       <div class="container">
         <nav>Navbar</nav>
         <main>MAin</main>

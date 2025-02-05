@@ -65,3 +65,14 @@ footer{
                             }
 
 }
+
+.box {
+    width: 200px;  /* Set width */
+    height: 100px;  /* Set height */
+    margin: 20px auto; /* Center horizontally */
+    padding: 20px; /* Space inside the box */
+    text-align: center;
+    justify-content: center;    
+    border: 2px solid black; /* Adds a border */
+    background-color: lightblue; /* Background color */
+}

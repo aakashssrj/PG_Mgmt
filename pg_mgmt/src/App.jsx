@@ -1,12 +1,13 @@
 import './Components/layout.css';
 import './App.css';
 import Layout from './Components/layout';
+import BoxModel from './Components/boxmodel';
 
 function App() {
 
   return (
     <>
-      
+      <BoxModel />
       <Layout />
       <div className="class1">
         <p>

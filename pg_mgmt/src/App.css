@@ -1,3 +1,5 @@
+
+
 *{
   margin : 0;
   padding: 0;
@@ -23,5 +25,41 @@
   background-position: center;
 }
 
+.card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  text-align: center ;
+  background-color: blueviolet;
+}
+
+.carditem {
+  margin-bottom: 16px;
+  background-color: aquamarine;
+}
+
+.cardtitle {
+  font-size: 1.5em;
+  margin-bottom: 8px;
+  background-color: rgb(58, 22, 105);
+  color: white;
+
+}
+
+.cardcontent {
+  font-size: 1em;
+  color: #333;
+  background-color: rgb(115, 126, 22);
+  color: white;
 
 
+}
+
+.title_box{
+  text-align: center;
+  width: 25rem;
+
+}
