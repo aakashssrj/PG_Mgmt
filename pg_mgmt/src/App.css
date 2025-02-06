@@ -34,10 +34,11 @@
   background-color: #fff;
   text-align: center ;
   background-color: blueviolet;
+ 
 }
 
 .carditem {
-  margin-bottom: 16px;
+  margin : 0;
   background-color: aquamarine;
 }
 
@@ -54,12 +55,13 @@
   color: #333;
   background-color: rgb(115, 126, 22);
   color: white;
-
+ 
 
 }
 
 .title_box{
   text-align: center;
   width: 25rem;
+  
 
 }
